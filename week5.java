@@ -224,7 +224,7 @@ public class week5 {
 
 
 	Mata.display();
-
+        Debelen.display();
 
 	Mangui.display();
 
